@@ -1,7 +1,7 @@
 {
-  "name": "elgato-stream-deck-clean",
+  "name": "elgato-stream-deck-clean-mini",
   "version": "1.0.0",
-  "description": "An npm module for interfacing with the Elgato Stream Deck. Without image library dependencies. (clean)",
+  "description": "An npm module for interfacing with the Elgato Stream Deck Mini. Without image library dependencies. (clean)",
   "main": "index.js",
   "typings": "typings.d.ts",
   "dependencies": {
@@ -43,6 +43,7 @@
     "stream",
     "deck",
     "streamdeck",
+    "mini",
     "hid",
     "usb",
     "hardware",
@@ -73,9 +74,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitfocus/node-elgato-stream-deck/issues"
+    "url": "https://github.com/bitfocus/node-elgato-stream-deck-clean-mini/issues"
   },
-  "homepage": "https://github.com/bitfocus/node-elgato-stream-deck#readme",
+  "homepage": "https://github.com/bitfocus/node-elgato-stream-deck-clean-mini/#readme",
   "eslintConfig": {
     "extends": "xo/esnext"
   },
